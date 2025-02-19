@@ -9,6 +9,7 @@ public class Bolo {
         this.tamanho = tamanho;
     }
 
+    //Exibe detalhes do bolo
     public void exibeDetalhes() {
         System.out.println("main.java.com.fabricadebolo.model.Bolo de " + sabor + " de " + tamanho + "cm");
     }
